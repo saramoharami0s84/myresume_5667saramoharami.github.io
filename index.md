@@ -3,7 +3,6 @@
     <style>
       div{
       direction:rtl;
-      font-size:23pt;
       color:green;
       }
     </style>
@@ -15,7 +14,7 @@
     <div>
       دانشجوی رشته مهندسی کامپیوتر
     </div>
-    <div style="bolder">
+    <div style="bold;font-size:22pt">
      توانایی ها:مسلط به فرانت اند و بک اند
     </div>
    
