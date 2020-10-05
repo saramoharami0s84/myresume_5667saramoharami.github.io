@@ -5,10 +5,9 @@
 <h2 style="color:green;direction:rtl">
 دانشجوی رشته مهندسی کامپیوتر 
 </h2>
-
-
-```markdown
-Syntax highlighted code block
+<p>
+مسلط به :
+</p>
 
 # Header 1
 ## Header 2
