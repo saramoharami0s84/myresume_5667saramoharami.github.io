@@ -3,6 +3,8 @@
     <style>
       div{
       direction:rtl;
+      font-size:23pt;
+      color:green;
       }
     </style>
   </head>
@@ -24,9 +26,8 @@
 ## Header 2
 ### Header 3
 
-- مسلط به فرانت اند
-- و بک اند
-
+- 
+- 
 1. Numbered
 2. List
 
