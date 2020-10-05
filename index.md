@@ -5,13 +5,14 @@
 <h2 style="color:green;direction:rtl">
 دانشجوی رشته مهندسی کامپیوتر 
 </h2>
-<p>
+<p  style="direction:rtl">
 مسلط به :
-</p>
+
   <ol>
     <li>فرانت اند</li>
     <li>بکند</li>
   </ol>
+  </p>
   </html>
 
 # Header 1
