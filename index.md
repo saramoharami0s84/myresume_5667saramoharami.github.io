@@ -14,7 +14,7 @@
     <div>
       دانشجوی رشته مهندسی کامپیوتر
     </div>
-    <div style="bold;font-size:22pt">
+    <div style="bold;font-size:20pt;color:blue">
      توانایی ها:مسلط به فرانت اند و بک اند
     </div>
    
