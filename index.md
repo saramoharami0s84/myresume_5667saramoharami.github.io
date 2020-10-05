@@ -24,8 +24,8 @@
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- مسلط به فرانت اند
+- و بک اند
 
 1. Numbered
 2. List
