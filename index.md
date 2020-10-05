@@ -17,15 +17,15 @@
     <div>
       دانشجوی رشته مهندسی کامپیوتر
     </div>
-    &nbsp
+    
     <div style="bold;font-size:20pt;color:navy" id="d1">
     توانایی ها:مسلط به فرانت اند و بک اند
     </div>
-    &nbsp
+   
     <div>
       تسلط کامل به زبان های html,css,c++,php
     </div>
-    &nbsp
+    
     <div>
       تسلط کامل به طراحی سایت با سیستم مدیریت محتوای وردپرس
     </div>
