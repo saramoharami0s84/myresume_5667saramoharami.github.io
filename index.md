@@ -1,8 +1,8 @@
 <html>
-<h1 style="color:red">
+<h1 style="color:green ;direction:rtl">
 سارا محرمی
 </h1>
-<h2>
+<h2 style="color:green;direction:rtl">
 دانشجوی رشته مهندسی کامپیوتر 
 </h2>
 
