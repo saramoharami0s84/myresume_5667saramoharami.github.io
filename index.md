@@ -6,7 +6,7 @@
       color:green;
       }
       #d1{
-      color:blue;
+      color:navy;
       }
     </style>
   </head>
