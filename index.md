@@ -1,19 +1,20 @@
 <html>
-<h1 style="color:green ;direction:rtl">
-سارا محرمی
-</h1>
-<h2 style="color:green;direction:rtl">
-دانشجوی رشته مهندسی کامپیوتر 
-</h2>
-<p  style="direction:rtl">
-مسلط به :
-
-  <ul>
-    <li>فرانت اند</li>
-    <li>بکند</li>
-  </ul>
-  </p>
-  </html>
+  <head>
+    <style>
+      div{
+      direction:rtl;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="color:green;font-size:27pt;font-family:arial">
+      سارا محرمی
+    </div>
+    <div>
+      دانشجوی رشته مهندسی کامپیوتر
+    </div>
+  </body>
+</html>
 
 # Header 1
 ## Header 2
