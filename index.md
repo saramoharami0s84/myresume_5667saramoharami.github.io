@@ -13,6 +13,15 @@
     <div>
       دانشجوی رشته مهندسی کامپیوتر
     </div>
+    <div style="bolder">
+      توانایی ها:
+    </div>
+    <div>
+      <ul>
+        <li>فرانت اند</li>
+        <li>بک اند</li>
+      </ul>
+    </div>
   </body>
 </html>
 
