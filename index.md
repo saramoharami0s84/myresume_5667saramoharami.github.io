@@ -8,10 +8,10 @@
 <p  style="direction:rtl">
 مسلط به :
 
-  <ol>
+  <ul>
     <li>فرانت اند</li>
     <li>بکند</li>
-  </ol>
+  </ul>
   </p>
   </html>
 
