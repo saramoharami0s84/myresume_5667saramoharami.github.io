@@ -2,7 +2,7 @@
   <head>
     <style>
       div{
-      direction:rtl;
+      text-align:center;
       color:green;
       }
       #d1{
