@@ -19,6 +19,7 @@
    <div style="direction:rtl;color:green;font-size:20pt;text-decoration:bolder">
     توانایی ها:
    </div>
+   1.مسلط به html
   </body>
 </html>
 
