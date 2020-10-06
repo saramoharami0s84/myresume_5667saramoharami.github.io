@@ -3,7 +3,7 @@
    <meta charset="UTF-8" />
   <style>
    div{
-   font-size:22pt;
+   font-size:20pt;
    }
   </style>
   </head>
