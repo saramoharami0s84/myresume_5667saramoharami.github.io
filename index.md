@@ -25,6 +25,9 @@
     <div style="background-color:black;color:white">
       تسلط کامل به زبان های html،css،php،c++
     </div>
+    <div style="background-color:black;color:white">
+     آشنا با زبان برنامه نویسی جاوا
+    </div>
     
     <div style="background-color:green;color:black">
       تسلط کامل به طراحی سایت با سیستم مدیریت محتوای وردپرس
