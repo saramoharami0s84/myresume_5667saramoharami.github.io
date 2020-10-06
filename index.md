@@ -14,7 +14,7 @@
    <div style="text-align:center;text-decoration:bolder">
     دانشجوی رشته مهندسی کامپیوتر
    </div>
-   <div>
+   <div style="color:green">
    **************************************************
    </div>
    
