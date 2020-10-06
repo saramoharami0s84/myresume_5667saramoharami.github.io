@@ -26,7 +26,7 @@
       تسلط کامل به زبان های html,css,c++,php
     </div>
     
-    <div>
+    <div style="background-color:green;color:black">
       تسلط کامل به طراحی سایت با سیستم مدیریت محتوای وردپرس
     </div>
    
