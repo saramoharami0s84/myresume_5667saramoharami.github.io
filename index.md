@@ -1,38 +1,11 @@
 <html>
-  <head>
-    <style>
-      div{
-      text-align:center;
-      color:green;
-      }
-      #d1{
-      color:navy;
-      }
-    </style>
+ <head>
+   <meta charset="UTF-8" />
   </head>
   <body>
-    <div style="color:green;font-size:27pt;font-family:arial;decoration:i">
+    <div style="font-size:24pt;decoration:bold;font-family:Arial">
       سارا محرمی
     </div>
-    <div>
-      دانشجوی رشته مهندسی کامپیوتر
-    </div>
-    
-    <div style="bold;font-size:20pt;color:navy" id="d1">
-    توانایی ها:مسلط به فرانت اند و بک اند
-    </div>
-   
-    <div style="background-color:green;direction:rtl;color:white;font-size:14pt;bold">
-      تسلط کامل به زبان های html،css،php،c++
-    </div>
-    <div style="background-color:black;color:white;font-size:14pt;bold">
-     آشنا با زبان برنامه نویسی جاوا
-    </div>
-    
-    <div style="background-color:green;color:white;font-size:12pt;bold">
-      تسلط کامل به طراحی سایت با سیستم مدیریت محتوای وردپرس
-    </div>
-   
   </body>
 </html>
 
