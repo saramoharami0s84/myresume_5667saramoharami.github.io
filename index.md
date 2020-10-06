@@ -1,11 +1,19 @@
 <html>
  <head>
    <meta charset="UTF-8" />
+  <style>
+   div{
+   font-size:22pt;
+   }
+  </style>
   </head>
   <body>
-    <div style="color:green;text-align:center;font-size:24pt;decoration:bold;font-family:Arial">
+    <div style="color:green;text-align:center;font-size:24pt;decoration:bolder;font-family:Arial">
       سارا محرمی
     </div>
+   <div>
+    دانشجوی رشته مهندسی کامپیوتر
+   </div>
   </body>
 </html>
 
