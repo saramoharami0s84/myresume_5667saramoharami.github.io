@@ -11,7 +11,7 @@
     </style>
   </head>
   <body>
-    <div style="color:green;font-size:27pt;font-family:arial">
+    <div style="color:green;font-size:27pt;font-family:arial;decoration:i">
       سارا محرمی
     </div>
     <div>
@@ -22,7 +22,7 @@
     توانایی ها:مسلط به فرانت اند و بک اند
     </div>
    
-    <div style="background-color:black;color:white">
+    <div style="background-color:green;color:black">
       تسلط کامل به زبان های html،css،php،c++
     </div>
     <div style="background-color:black;color:white">
