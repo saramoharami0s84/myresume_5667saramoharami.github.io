@@ -17,8 +17,8 @@
    <div>
    **************************************************
    </div>
-   <br />
-   <br />
+   
+   
    <div>
    <div style="direction:rtl;color:green;font-size:20pt;text-decoration:bolder">
     توانایی ها:
