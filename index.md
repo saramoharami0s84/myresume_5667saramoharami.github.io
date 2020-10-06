@@ -17,7 +17,10 @@
    <br />
    <br />
    <div style="direction:rtl;color:green;font-size:20pt;text-decoration:bolder">
-    توانایی ها:مسلط به بکند و فرانت اند
+    توانایی ها:
+   </div>
+   <div>
+    مسلط به بکند و فرانت اند
    </div>
    1.html<br />
    2.css<br />
