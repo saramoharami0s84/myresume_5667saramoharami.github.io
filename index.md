@@ -12,9 +12,9 @@
       سارا محرمی
     </div>
    <div>
-    دانشجوی رشته مهندسی کامپیوتر
+     &nbsp دانشجوی رشته مهندسی کامپیوتر
    </div>
-   <div style="direction:rtl;color:green;font-size:20pt">
+   <div style="direction:rtl;color:green;font-size:20pt;text-decoration:bolder">
     توانایی ها:
    </div>
   </body>
