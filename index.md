@@ -9,7 +9,9 @@
   </head>
   <body style=" direction:rtl">
     
-      <img src="url('20-10-06-12-11-55-454_deco.jpg') "alt="سارا محرمی"></img>
+   <div style="text-align:center;color:green;text-decoration:bolder;font-size:23pt">
+    سارا محرمی
+    </div>
     
    <div style="text-align:center;text-decoration:bolder">
     دانشجوی رشته مهندسی کامپیوتر
