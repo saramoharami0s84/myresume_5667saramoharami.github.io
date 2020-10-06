@@ -23,7 +23,7 @@
     </div>
    
     <div style="background-color:black;color:white">
-      تسلط کامل به زبان های html,css,c++,php
+      تسلط کامل به زبان های html،css،php،c++
     </div>
     
     <div style="background-color:green;color:black">
