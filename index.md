@@ -14,6 +14,9 @@
    <div>
     دانشجوی رشته مهندسی کامپیوتر
    </div>
+   <div style="direction:rtl">
+    توانایی ها:
+   </div>
   </body>
 </html>
 
