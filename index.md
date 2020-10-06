@@ -22,14 +22,14 @@
     توانایی ها:مسلط به فرانت اند و بک اند
     </div>
    
-    <div style="background-color:green;color:white;font-size:15pt;bold">
+    <div style="background-color:green;color:white;font-size:14pt;bold">
       تسلط کامل به زبان های html،css،php،c++
     </div>
-    <div style="background-color:black;color:white;font-size:15pt;bold">
+    <div style="background-color:black;color:white;font-size:14pt;bold">
      آشنا با زبان برنامه نویسی جاوا
     </div>
     
-    <div style="background-color:green;color:white;font-size:15pt;bold">
+    <div style="background-color:green;color:white;font-size:14pt;bold">
       تسلط کامل به طراحی سایت با سیستم مدیریت محتوای وردپرس
     </div>
    
