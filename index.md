@@ -29,7 +29,7 @@
      آشنا با زبان برنامه نویسی جاوا
     </div>
     
-    <div style="background-color:green;color:white;font-size:14pt;bold">
+    <div style="background-color:green;color:white;font-size:13pt;bold">
       تسلط کامل به طراحی سایت با سیستم مدیریت محتوای وردپرس
     </div>
    
