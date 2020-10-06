@@ -17,9 +17,12 @@
    <br />
    <br />
    <div style="direction:rtl;color:green;font-size:20pt;text-decoration:bolder">
-    توانایی ها:
+    توانایی ها:مسلط به بکند و فرانت اند
    </div>
-   1.مسلط به html
+   1.html<br />
+   2.css<br />
+   3.php <br />
+   4.c++<br />
   </body>
 </html>
 
