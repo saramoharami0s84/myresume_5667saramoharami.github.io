@@ -3,7 +3,7 @@
    <meta charset="UTF-8" />
   </head>
   <body>
-    <div style="color:green;font-size:24pt;decoration:bold;font-family:Arial;text-align:center">
+    <div style="color:green;text-align:center;font-size:24pt;decoration:bold;font-family:Arial">
       سارا محرمی
     </div>
   </body>
