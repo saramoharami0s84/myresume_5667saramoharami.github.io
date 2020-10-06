@@ -24,7 +24,7 @@
     مسلط به بکند و فرانت اند
    </div>
    <div style="color:white;background-color:green">
-   1.htmlمسلط به<br />
+   1. مسلط به html<br />
    2.css <br />
    3.php <br />
    4.++c<br />
