@@ -9,7 +9,7 @@
   </head>
   <body style=" direction:rtl">
     <div style="color:green;text-align:center;font-size:24pt;decoration:bolder;font-family:Arial">
-      <img src="url('')" />
+      <img src="url('20-10-06-12-11-55-454_deco.jpg')" />
     </div>
    <div>
     دانشجوی رشته مهندسی کامپیوتر
