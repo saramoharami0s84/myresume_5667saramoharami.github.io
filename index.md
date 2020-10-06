@@ -9,7 +9,7 @@
   </head>
   <body style=" direction:rtl">
     <div style="color:green;text-align:center;font-size:24pt;decoration:bolder;font-family:Arial">
-      سارا محرمی
+      <img src="url('')" />
     </div>
    <div>
     دانشجوی رشته مهندسی کامپیوتر
@@ -25,9 +25,9 @@
    </div>
    <div style="color:white;background-color:green">
    1. مسلط به html<br />
-   2.css <br />
-   3.php <br />
-   4.++c<br />
+   2.مسلط به css <br />
+   3.مسلط به php <br />
+   4.مسلط به ++c<br />
    </div>
   </body>
 </html>
