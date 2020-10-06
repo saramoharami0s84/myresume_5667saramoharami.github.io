@@ -22,7 +22,7 @@
     توانایی ها:مسلط به فرانت اند و بک اند
     </div>
    
-    <div>
+    <div style="background-color:black">
       تسلط کامل به زبان های html,css,c++,php
     </div>
     
