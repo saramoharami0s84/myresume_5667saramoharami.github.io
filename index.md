@@ -7,7 +7,7 @@
    }
   </style>
   </head>
-  <body>
+  <body style=" direction:rtl">
     <div style="color:green;text-align:center;font-size:24pt;decoration:bolder;font-family:Arial">
       سارا محرمی
     </div>
