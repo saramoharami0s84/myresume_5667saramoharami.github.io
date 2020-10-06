@@ -16,16 +16,18 @@
    </div>
    <br />
    <br />
+   <div>
    <div style="direction:rtl;color:green;font-size:20pt;text-decoration:bolder">
     توانایی ها:
    </div>
-   <div>
+   <div style="background-color:blue">
     مسلط به بکند و فرانت اند
    </div>
    1.html<br />
    2.css<br />
    3.php <br />
    4.++c<br />
+   </div>
   </body>
 </html>
 
