@@ -20,9 +20,10 @@
    <div style="direction:rtl;color:green;font-size:20pt;text-decoration:bolder">
     توانایی ها:
    </div>
-   <div style="background-color:blue">
+   <div style="background-color:blue;color:white">
     مسلط به بکند و فرانت اند
    </div>
+   <div style="color:white;background-color:green">
    1.html<br />
    2.css<br />
    3.php <br />
