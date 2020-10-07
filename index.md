@@ -35,18 +35,18 @@
    4.مسلط به ++c<br />
    5.مسلط به سی ام اس وردپرس <br />
    6.مسلط به اصول سئو <br />
-   7.آشنا به جاوا
+   7.آشنا به جاوا <br />
    8.مسلط به زبان انگلیسی
    </div>
    <br />
    <div style="color:green;text-decoration:bolder;font-size:23pt">
     سایت های طراحی شده:
    </div>
-  <div style="background-color:blue;color:white;>
-  A.گوگل سان
-  B.مای شاپ
-  C.افزونه ها
-  </div>
+   <div style="background-color:blue;color:white;>
+   A.گوگل سان
+   B.مای شاپ
+   C.افزونه ها
+   </div>
   
 
 
