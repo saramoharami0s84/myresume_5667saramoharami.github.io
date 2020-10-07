@@ -39,7 +39,7 @@
    8.مسلط به زبان انگلیسی
    </div>
    <div style="color:green">
-   ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+   ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
    </div>
    <br />
    <div style="background-color:blue;color:white;text-decoration:bolder;font-size:17pt">
@@ -47,6 +47,9 @@
     A.گوگل سان <br />
     B.مای شاپ <br />
     C.افزونه ها <br />
+   </div>
+   <div>
+   ایمیل:pprogramming76@gmail.com
    </div>
    
    </body>
