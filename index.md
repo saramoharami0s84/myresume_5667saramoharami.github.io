@@ -10,7 +10,7 @@
   <body style=" direction:rtl">
     
    <div style="text-align:center;color:green;text-decoration:bolder;font-size:23pt">
-    <img src="20-10-06-12-11-55-454_deco.jpg">
+    <img src="20-10-06-12-11-55-454_deco.jpg" alt="سارا محرمی">
     </div>
     
    <div style="text-align:center;text-decoration:bolder">
