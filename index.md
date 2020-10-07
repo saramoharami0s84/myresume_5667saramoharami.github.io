@@ -39,7 +39,7 @@
    8.مسلط به زبان انگلیسی
    </div>
    <br />
-   <div style="color:green;text-decoration:bolder;font-size:23pt">
+   <div style="color:green;text-decoration:bolder;font-size:20pt">
     سایت های طراحی شده:<br />
     A.گوگل سان
     B.مای شاپ
