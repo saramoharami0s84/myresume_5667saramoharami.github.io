@@ -38,6 +38,7 @@
    7.آشنا به جاوا <br />
    8.مسلط به زبان انگلیسی
    </div>
+   ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
    <br />
    <div style="background-color:blue;color:white;text-decoration:bolder;font-size:17pt">
     سایت های طراحی شده:<br />
