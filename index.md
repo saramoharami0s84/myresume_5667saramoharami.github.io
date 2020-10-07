@@ -40,7 +40,7 @@
    </div>
    <br />
    <div style="color:green;text-decoration:bolder;font-size:23pt">
-    سایت های طراحی شده:
+    سایت های طراحی شده:<br />
     A.گوگل سان
     B.مای شاپ
     C.افزونه ها
