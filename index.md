@@ -48,7 +48,7 @@
     B.مای شاپ <br />
     C.افزونه ها <br />
    </div>
-   <div>
+   <div style="font-size:18pt">
    ایمیل:pprogramming76@gmail.com
    </div>
    
