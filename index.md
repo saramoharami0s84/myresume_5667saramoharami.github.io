@@ -41,9 +41,9 @@
    <br />
    <div style="background-color:blue;color:green;text-decoration:bolder;font-size:17pt">
     سایت های طراحی شده:<br />
-    A.گوگل سان
-    B.مای شاپ
-    C.افزونه ها
+    A.گوگل سان <br />
+    B.مای شاپ <br />
+    C.افزونه ها <br />
    </div>
    
    </body>
