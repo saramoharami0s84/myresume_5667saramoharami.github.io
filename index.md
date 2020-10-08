@@ -44,9 +44,9 @@
    <br />
    <div style="background-color:blue;color:white;text-decoration:bolder;font-size:17pt">
     سایت های طراحی شده:<br />
-    A.گوگل سان <br />
-    B.مای شاپ <br />
-    C.افزونه ها <br />
+    
+    A.مای شاپ <br />
+    B.افزونه ها <br />
    </div>
    <div style="font-size:16pt">
    ایمیل:pprogramming76@gmail.com
